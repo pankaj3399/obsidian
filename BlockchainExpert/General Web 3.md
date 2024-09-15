@@ -1,0 +1,7 @@
+ - Smart contract has addresses like wallets.
+- Memory - Temporary variables that can be modified
+- Calldata- Temporary variables that can’t be modified
+- Storage - Permanent variables that can be modified
+- Solidity supports inheritance, overriding
+- Parent function has to be virtual for it to get overridden
+- If the require statement in a function is not met, it returns an error and also reverts any statements that were executed above it in a function.
